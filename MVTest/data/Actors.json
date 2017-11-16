@@ -1,7 +1,6 @@
 [
 null,
-{"id":1,"battlerName":"héro_terre1","characterIndex":0,"characterName":"héro_terre1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"héro_terre1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Héro Terre Garcon","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"héro_terre2","characterIndex":0,"characterName":"héro_terre2","classId":2,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"héro_terre2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Héro Terre Fille","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"héro_eau1","characterIndex":0,"characterName":"héro_eau1","classId":3,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"héro_eau1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Héro Eau Garcon","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"héro_eau2","characterIndex":0,"characterName":"héro_eau2","classId":4,"equips":[4,0,2,3,4],"faceIndex":0,"faceName":"héro_eau2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Héro Eau Fille","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"gars_neutre","characterIndex":0,"characterName":"gars_neutre","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"neutre","traits":[],"initialLevel":1,"maxLevel":99,"name":"Héro Garcon","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"fille1_neutre","characterIndex":0,"characterName":"fille1_neutre","classId":2,"equips":[2,1,2,3,0],"faceIndex":4,"faceName":"neutre_fille","traits":[],"initialLevel":1,"maxLevel":99,"name":"Héro Fille","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"fille2_neutre","characterIndex":0,"characterName":"fille2_neutre","classId":3,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"neutre_fille","traits":[],"initialLevel":1,"maxLevel":99,"name":"Héro Fille","nickname":"","note":"","profile":""}
 ]
