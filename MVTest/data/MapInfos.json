@@ -3,9 +3,10 @@ null,
 {"id":1,"expanded":false,"name":"AlexTesT","order":1,"parentId":0,"scrollX":1182.5454545454545,"scrollY":665.4545454545455},
 {"id":2,"expanded":false,"name":"Village1","order":2,"parentId":0,"scrollX":1165.0909090909092,"scrollY":1254.5454545454545},
 {"id":3,"expanded":true,"name":"Village2","order":3,"parentId":0,"scrollX":1188,"scrollY":1518},
-{"id":4,"expanded":true,"name":"mapdepart","order":6,"parentId":0,"scrollX":1318,"scrollY":742},
+{"id":4,"expanded":true,"name":"mapdepart","order":6,"parentId":0,"scrollX":1581.6,"scrollY":890.4},
 {"id":5,"expanded":false,"name":"Route 02","order":5,"parentId":3,"scrollX":1318,"scrollY":742},
 {"id":6,"expanded":true,"name":"Route 01","order":4,"parentId":3,"scrollX":1068,"scrollY":830},
-{"id":7,"expanded":true,"name":"Campement avant ?","order":7,"parentId":4,"scrollX":976.5,"scrollY":742.5},
-{"id":8,"expanded":false,"name":"TestTente","order":8,"parentId":7,"scrollX":790.8,"scrollY":445.2}
+{"id":7,"expanded":false,"name":"Campement avant ?","order":7,"parentId":4,"scrollX":1581.6,"scrollY":890.4},
+{"id":8,"expanded":false,"name":"TestTente","order":8,"parentId":7,"scrollX":790.8,"scrollY":445.2},
+{"id":9,"expanded":false,"name":"Campement<=>Forêt","order":9,"parentId":4,"scrollX":1581.6,"scrollY":890.4}
 ]
