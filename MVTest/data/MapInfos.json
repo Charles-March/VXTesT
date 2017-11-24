@@ -9,7 +9,7 @@ null,
 {"id":7,"expanded":false,"name":"Campement avant ?","order":7,"parentId":4,"scrollX":1116,"scrollY":822.8571428571428},
 {"id":8,"expanded":false,"name":"TestTente","order":8,"parentId":7,"scrollX":1182.5454545454545,"scrollY":665.4545454545455},
 {"id":9,"expanded":false,"name":"Campement<=>Forêt","order":9,"parentId":4,"scrollX":1116,"scrollY":665.1428571428571},
-{"id":10,"expanded":false,"name":"Forêt Réveil","order":10,"parentId":4,"scrollX":976.5,"scrollY":931.5},
-{"id":11,"expanded":false,"name":"Forêt Sanglier","order":11,"parentId":4,"scrollX":1302,"scrollY":746},
+{"id":10,"expanded":false,"name":"Forêt Réveil","order":10,"parentId":4,"scrollX":1116,"scrollY":852},
+{"id":11,"expanded":false,"name":"Forêt Sanglier","order":11,"parentId":4,"scrollX":1116,"scrollY":745.7142857142857},
 {"id":12,"expanded":false,"name":"Grotte","order":12,"parentId":4,"scrollX":1116,"scrollY":636}
 ]
